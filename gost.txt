@@ -1,0 +1,57 @@
+# options
+reload 30s #配置文件热更新
+reverse true # 开了后表示列表中的才会走代理
+
+# proxy neededd addresses
+google.com
+*.google.com
+*.googleapis.com
+*.googlevideo.com
+*.gstatic.com
+*·googletagmanager.com
+*.youtube.com
+*.google-analytics.com
+
+## docker
+docker.com
+*.docker.com
+docker.io
+*.docker.io
+
+## synology
+packages.synocommunity.com
+global.synologydownload.com
+pkgautoupdate7.synology.com
+pkgupdate7.synology.com
+
+## github
+github.com
+githubassets.com
+*.github.com
+*·githubassets.com
+*·github.io
+*.githubusercontent.com
+
+## both
+twitter.com
+*.twitter.com
+disqus.com
+*.disqus.com
+digitalocean.com
+*.digitalocean.com
+v2ex.com
+*.v2ex.com
+reddit.com
+*.reddit.com
+huggingface.co
+*.huggingface.co
+
+## single
+rsshub.app
+medium.com
+stackoverflow.com
+*.redditstatic.com
+*.ibm.com
+*.elastic.co
+*.books3.is
+www.ftchinese.com
