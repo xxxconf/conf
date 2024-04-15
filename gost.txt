@@ -1,0 +1,102 @@
+# options
+reload 30s #配置文件热更新
+reverse true # 开了后表示列表中的才会走代理
+
+# proxy neededd addresses
+google.com
+*.google.com
+*.googleapis.com
+*.gstatic.com
+*·googletagmanager.com
+*.googleusercontent.com
+*.google-analytics.com
+*.googlevideo.com
+*.youtube.com
+*.ytimg.com
+*.ggpht.com
+
+## docker
+docker.com
+*.docker.com
+docker.io
+*.docker.io
+
+## microsoft
+*.msn.com
+*.azure.com
+*.microsoft.com
+*.trafficmanager.net
+*.microsoftonline.com
+*.live.com
+*.office.com
+*.office365.com
+*.skype.com
+*.appcenter.ms
+*.msftauth.net
+
+# openai
+openai.com
+*.openai.com
+*.oaistatic.com
+*.chatgpt.com
+*.sentry.io
+
+## github
+github.com
+githubassets.com
+*.github.com
+*·githubassets.com
+*·github.io
+*.githubusercontent.com
+*.githubcopilot.com
+
+# twitter
+x.com
+*.x.com
+twitter.com
+*.twitter.com
+*.twimg.com
+
+# facebook
+*.facebook.com
+*.instagram.com
+*.cdninstagram.com
+
+# reddit
+reddit.com
+*.reddit.com
+*.redditmedia.com
+*.redditspace.com
+*.redd.it
+
+# synology
+packages.synocommunity.com
+global.synologydownload.com
+pkgautoupdate7.synology.com
+pkgupdate7.synology.com
+
+# mozilla
+*.firefox.com
+*.mozilla.com
+
+## both
+*.jsdelivr.net
+*.cloudflare.com
+disqus.com
+*.disqus.com
+digitalocean.com
+*.digitalocean.com
+v2ex.com
+*.v2ex.com
+huggingface.co
+*.huggingface.co
+
+## single
+rsshub.app
+medium.com
+stackoverflow.com
+*.redditstatic.com
+*.ibm.com
+*.elastic.co
+*.books3.is
+*.ftchinese.com
