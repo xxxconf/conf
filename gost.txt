@@ -95,6 +95,7 @@ huggingface.co
 rsshub.app
 medium.com
 stackoverflow.com
+linux.do
 *.redditstatic.com
 *.ibm.com
 *.elastic.co
